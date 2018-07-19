@@ -1,5 +1,3 @@
-# chanmenglin.github.io
-
 # Welcome to ChanMenglin's Blog
 
   我将会在这里与你分享以下内容：
