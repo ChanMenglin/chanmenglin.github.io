@@ -1,4 +1,4 @@
-# Welcome to ChanMenglin's Blog
+# Welcome to ChenMenglin's Blog
 
 *我将会在这里与你分享以下内容：*
 > 1. 个人对软件行业的不成熟的看法
