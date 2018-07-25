@@ -1,9 +1,9 @@
-—
+---
 layout:post
 title: Git 笔记
 date: 2018-07-25 11:55:00 +0800
 categories: 代码管理
-—
+---
 
 # <p align = “center”> Git 笔记 </p>
 ## Git介绍
