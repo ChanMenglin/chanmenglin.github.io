@@ -5,9 +5,6 @@ date: 2018-07-25 11:55:00 +0800
 categories: 代码管理
 ---
 
-```
-<h1> <p align = “center”> Git 笔记 </p></h1>
-```
 
 ## Git介绍
 - Git是分布式版本控制系统
