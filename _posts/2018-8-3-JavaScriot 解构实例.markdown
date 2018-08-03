@@ -3,12 +3,7 @@ layout: post
 title: JavaScriot 解构用法实例
 date: 2018-08-03 12:34:00 +0800
 categories: JavaScriot 解构
----
-
----
- title: JavaScriot 解构的用法实例
- base: 基于 ES6
- date: 2018-08-03
+base: 基于 ES6
 ---
 
 # JavaScriot 解构的用法实例
